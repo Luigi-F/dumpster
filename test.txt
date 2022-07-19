@@ -1,1 +1,1 @@
-Sim senhor
+ContentFile(path="test.txt")Testando input
