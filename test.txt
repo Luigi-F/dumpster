@@ -1,1 +1,1 @@
-line
+ContentFile(path="test.txt")Testando input
